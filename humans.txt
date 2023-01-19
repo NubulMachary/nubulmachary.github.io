@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Nubul Machary -- Interactive Front-end Developer -- https://twitter.com/NubulMachary
+
+# THANKS
+
+    Coffee.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Javascript,
+    BRick, Sass, Jade(Pug),
+    Gulp, Babel, ESLint
